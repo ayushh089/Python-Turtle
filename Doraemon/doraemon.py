@@ -1,3 +1,9 @@
+#------------------------------------
+# Created by Ayush Gupta
+# Follow me on instagram @next_coders
+# Please don't remove credits
+#=-----------------------------------
+
 import turtle
 obj = turtle.Turtle()
 obj.speed(10)
